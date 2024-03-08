@@ -2,6 +2,6 @@
   <update>
     <latestVersion>1.2.2</latestVersion>
     <latestVersionCode>10</latestVersionCode>
-    <url>https://github.com/EnzoXZodix/Update/blob/main/app-release.apk</url>
+    <url>https://raw.githubusercontent.com/EnzoXZodix/Update/main/app-release.apk</url>
   </update>
 </AppUpdater>
